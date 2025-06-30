@@ -1,0 +1,12 @@
+/Users/snplab/Documents/Practice/TestAppProject2/backend/src/main/java/com/testapp/backend/model/User.java
+/Users/snplab/Documents/Practice/TestAppProject2/backend/src/main/java/com/testapp/backend/repository/PostRepository.java
+/Users/snplab/Documents/Practice/TestAppProject2/backend/src/main/java/com/testapp/backend/repository/UserRepository.java
+/Users/snplab/Documents/Practice/TestAppProject2/backend/src/main/java/com/testapp/backend/config/CorsConfig.java
+/Users/snplab/Documents/Practice/TestAppProject2/backend/src/main/java/com/testapp/backend/service/UserService.java
+/Users/snplab/Documents/Practice/TestAppProject2/backend/src/main/java/com/testapp/backend/dto/PostDto.java
+/Users/snplab/Documents/Practice/TestAppProject2/backend/src/main/java/com/testapp/backend/model/Post.java
+/Users/snplab/Documents/Practice/TestAppProject2/backend/src/main/java/com/testapp/backend/controller/UserController.java
+/Users/snplab/Documents/Practice/TestAppProject2/backend/src/main/java/com/testapp/backend/dto/UserDto.java
+/Users/snplab/Documents/Practice/TestAppProject2/backend/src/main/java/com/testapp/backend/service/PostService.java
+/Users/snplab/Documents/Practice/TestAppProject2/backend/src/main/java/com/testapp/backend/BackendApplication.java
+/Users/snplab/Documents/Practice/TestAppProject2/backend/src/main/java/com/testapp/backend/controller/PostController.java
